@@ -1,0 +1,11 @@
+Token{classe..: cInt, value..: Value { valueInteger..: 12333, valueDecimal..: 0.0, valueIdentification..: 'null'}, line..: 1, column..: 1}
+Token{classe..: cReal, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'null'}, line..: 1, column..: 7}
+Token{classe..: cId, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'Ian'}, line..: 1, column..: 14}
+Token{classe..: cId, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'Kohl'}, line..: 1, column..: 18}
+Token{classe..: cInt, value..: Value { valueInteger..: 123344, valueDecimal..: 0.0, valueIdentification..: 'null'}, line..: 2, column..: 1}
+Token{classe..: cReal, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'null'}, line..: 2, column..: 11}
+Token{classe..: cId, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'Ian'}, line..: 2, column..: 18}
+Token{classe..: cId, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'Kohl'}, line..: 2, column..: 22}
+Token{classe..: cId, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'if'}, line..: 3, column..: 1}
+Token{classe..: cPalRes, value..: Value { valueInteger..: 0, valueDecimal..: 0.0, valueIdentification..: 'const'}, line..: 3, column..: 4}
+null
